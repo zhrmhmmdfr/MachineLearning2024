@@ -1,2 +1,2 @@
 # MachineLearning2024
-Homeworks &amp; Projects
+Mini Projects
